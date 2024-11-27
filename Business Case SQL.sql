@@ -123,50 +123,5 @@ VALUES ('P1','100','80','Colombia','10'),
 ('P5','600','500','Mexico','30'),
 ('P6','650','520','Colombia','10');
 
-#TEST
-#1. Seleccione todos los registros de la tabla PRODUCT
-
-
-#2.Seleccione todas las ventas del primero de Diciembre 2021
-	
-
-#3 Seleccione todos los clientes que viven en Mexico
-						
-
-#4 Seleccione todos los productos que se vendieron en la factura 25
-
-
-#5 ¿Cuantos productos diferentes se venden en Colombia?
-
-
-
-#6 Seleccione todos los clientes que viven en Cartagena
-	
-
-#7 ¿Cuantos clientes viven en la ciudad Guadalajara?
-
-
-#8 ¿Cuál fue el monto total facturado en Mexico en Diciembre 2021?
-
-
-#9 ¿Cuantos productos "producto_1" se vendieron en Colombia desde el primero hasta el 15 de diciembre 2021?
-
-        
-#10 ¿Cuántas veces comprò el cliente C10 en México?
-	
-    
-#11 ¿Cuánto gastò el cliente C17 en Diciembre para la compra del "producto_6"?
-
-        
-#12 Seleccione la facturaciòn total de los dos Paises en el mes de diciembre agrupandola por Pais
-
-
-#13 Seleccione la tabla INVOICE agregando el indicador "price_type" que informe si el precio por producto fue "STANDARD" o "PROMO"
-
-#14 "Dada la informaciòn disponible en las tablas, cree un dashboard utilizando Tableau
-# ¿Cuales conclusiones puede observar y cuales recomendaciones tendrìa?"
-# Si no se cuenta con la versiòn Desktop de Tableau, puede bajar Tableau Public a la siguiente liga.
-# https://public.tableau.com/en-us/s/download
-						
 						
 
